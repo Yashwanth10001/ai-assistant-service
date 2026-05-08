@@ -1,0 +1,3 @@
+com/example/ai_assistant_service/AiAssistantServiceApplication.class
+com/example/ai_assistant_service/controllers/WeatherController.class
+com/example/ai_assistant_service/services/WeatherClientService.class

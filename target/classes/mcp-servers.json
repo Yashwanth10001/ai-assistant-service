@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "weather-mcp-server": {
+      "command": "java",
+      "args": [
+        "-Dfile.encoding=UTF-8",
+        "-Dspring.main.banner-mode=off",
+        "-Dspring.main.log-startup-info=false",
+        "-Dlogging.level.root=OFF",
+        "-jar",
+        "/Users/yashwanth/Desktop/my_space/ai-assistant-service/lib/weather-mcp-server-0.0.1-SNAPSHOT.jar"
+      ]
+    }
+  }
+}
